@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="647ffe70-a1b4-469f-9aa7-9d6611cd99e2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1YRda67D1jQXvS7WF60KCVRBEjE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="nsayisi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.nsayisi" />
+      <module name="nsayisininkuvvetleri" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.nsayisi" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="647ffe70-a1b4-469f-9aa7-9d6611cd99e2" name="Default Changelist" comment="" />
+      <created>1582909400956</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582909400956</updated>
+      <workItem from="1582925767412" duration="1330000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom" timestamp="1582927097694">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom/-1366.164.1366.730/0.0.1536.834@0.0.1536.834" timestamp="1582927097694" />
+    <state width="1493" height="213" key="GridCell.Tab.0.center" timestamp="1582927097694">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.center/-1366.164.1366.730/0.0.1536.834@0.0.1536.834" timestamp="1582927097694" />
+    <state width="1493" height="213" key="GridCell.Tab.0.left" timestamp="1582927097694">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.left/-1366.164.1366.730/0.0.1536.834@0.0.1536.834" timestamp="1582927097694" />
+    <state width="1493" height="213" key="GridCell.Tab.0.right" timestamp="1582927097694">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.right/-1366.164.1366.730/0.0.1536.834@0.0.1536.834" timestamp="1582927097694" />
+    <state x="725" y="429" key="com.intellij.ide.util.TipDialog" timestamp="1582925838768">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="725" y="429" key="com.intellij.ide.util.TipDialog/-1366.164.1366.730/0.0.1536.834@0.0.1536.834" timestamp="1582925838768" />
+    <state x="470" y="406" width="609" height="270" key="find.popup" timestamp="1582926143130">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="470" y="406" width="609" height="270" key="find.popup/-1366.164.1366.730/0.0.1536.834@0.0.1536.834" timestamp="1582926143130" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1582926299831">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/-1366.164.1366.730/0.0.1536.834@0.0.1536.834" timestamp="1582926299831" />
+  </component>
+</project>
